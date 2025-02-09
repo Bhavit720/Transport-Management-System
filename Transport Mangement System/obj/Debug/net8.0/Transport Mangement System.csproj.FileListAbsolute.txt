@@ -1,0 +1,15 @@
+C:\Users\bhvt\source\repos\Transport Mangement System\bin\Debug\net8.0\Transport Mangement System.exe
+C:\Users\bhvt\source\repos\Transport Mangement System\bin\Debug\net8.0\Transport Mangement System.deps.json
+C:\Users\bhvt\source\repos\Transport Mangement System\bin\Debug\net8.0\Transport Mangement System.runtimeconfig.json
+C:\Users\bhvt\source\repos\Transport Mangement System\bin\Debug\net8.0\Transport Mangement System.dll
+C:\Users\bhvt\source\repos\Transport Mangement System\bin\Debug\net8.0\Transport Mangement System.pdb
+C:\Users\bhvt\source\repos\Transport Mangement System\obj\Debug\net8.0\Transport Mangement System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhvt\source\repos\Transport Mangement System\obj\Debug\net8.0\Transport Mangement System.AssemblyInfoInputs.cache
+C:\Users\bhvt\source\repos\Transport Mangement System\obj\Debug\net8.0\Transport Mangement System.AssemblyInfo.cs
+C:\Users\bhvt\source\repos\Transport Mangement System\obj\Debug\net8.0\Transport Mangement System.csproj.CoreCompileInputs.cache
+C:\Users\bhvt\source\repos\Transport Mangement System\obj\Debug\net8.0\Transport Mangement System.sourcelink.json
+C:\Users\bhvt\source\repos\Transport Mangement System\obj\Debug\net8.0\Transport Mangement System.dll
+C:\Users\bhvt\source\repos\Transport Mangement System\obj\Debug\net8.0\refint\Transport Mangement System.dll
+C:\Users\bhvt\source\repos\Transport Mangement System\obj\Debug\net8.0\Transport Mangement System.pdb
+C:\Users\bhvt\source\repos\Transport Mangement System\obj\Debug\net8.0\Transport Mangement System.genruntimeconfig.cache
+C:\Users\bhvt\source\repos\Transport Mangement System\obj\Debug\net8.0\ref\Transport Mangement System.dll
